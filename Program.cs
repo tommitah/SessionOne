@@ -7,7 +7,14 @@ namespace PeliKehBACKEND
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine(args[0]);
+            try
+            {
+                Console.WriteLine(args[0]);
+            }
+            catch
+            {
+                
+            }
         }
     }
     

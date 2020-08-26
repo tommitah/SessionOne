@@ -13,3 +13,9 @@ D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.pdb
 D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.genruntimeconfig.cache
 D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csproj.CopyComplete
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csprojAssemblyReference.cache
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.AssemblyInfoInputs.cache
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.AssemblyInfo.cs
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csproj.CoreCompileInputs.cache
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.dll
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.pdb

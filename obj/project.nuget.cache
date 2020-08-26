@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q20wPj2W0Fzv3kMJ8BH/ShrHVQf6+gyep/zBDXUTquiIlxLv4JIaZC5R8oreyLqU1ZFy8XmGuBzpjppeUJpNMQ==",
+  "dgSpecHash": "nG1RSe3vVA3yz3IiS7if1f6pguMGQilffM9T7Ed/9CL2ShFxBarVeINfUI0cxXNWmJG1hMCu559IDpYs/QtWJA==",
   "success": true,
-  "projectFilePath": "D:\\PeliKehBACKEND\\PeliKehBACKEND.csproj",
+  "projectFilePath": "D:\\PeliKehitysBACK\\SessionOne\\PeliKehBACKEND.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SONNI\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

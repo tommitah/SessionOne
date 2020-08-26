@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PeliKehBACKEND\\PeliKehBACKEND.csproj",
+      "projectUniqueName": "D:\\PeliKehitysBACK\\SessionOne\\PeliKehBACKEND.csproj",
       "projectName": "PeliKehBACKEND",
-      "projectPath": "D:\\PeliKehBACKEND\\PeliKehBACKEND.csproj",
+      "projectPath": "D:\\PeliKehitysBACK\\SessionOne\\PeliKehBACKEND.csproj",
       "packagesPath": "C:\\Users\\SONNI\\.nuget\\packages\\",
-      "outputPath": "D:\\PeliKehBACKEND\\obj\\",
+      "outputPath": "D:\\PeliKehitysBACK\\SessionOne\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SONNI\\AppData\\Roaming\\NuGet\\NuGet.Config"
