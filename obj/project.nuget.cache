@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q20wPj2W0Fzv3kMJ8BH/ShrHVQf6+gyep/zBDXUTquiIlxLv4JIaZC5R8oreyLqU1ZFy8XmGuBzpjppeUJpNMQ==",
+  "success": true,
+  "projectFilePath": "D:\\PeliKehBACKEND\\PeliKehBACKEND.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SONNI\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

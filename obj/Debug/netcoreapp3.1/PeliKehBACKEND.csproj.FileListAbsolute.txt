@@ -1,0 +1,15 @@
+D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\PeliKehBACKEND.exe
+D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\PeliKehBACKEND.deps.json
+D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\PeliKehBACKEND.runtimeconfig.json
+D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\PeliKehBACKEND.runtimeconfig.dev.json
+D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\PeliKehBACKEND.dll
+D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\PeliKehBACKEND.pdb
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csprojAssemblyReference.cache
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.AssemblyInfoInputs.cache
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.AssemblyInfo.cs
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csproj.CoreCompileInputs.cache
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.dll
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.pdb
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.genruntimeconfig.cache
+D:\PeliKehBACKEND\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PeliKehBACKEND\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csproj.CopyComplete
