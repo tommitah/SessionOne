@@ -1,5 +1,4 @@
-public class Station
-{
+public class Station {
     public int id { get; set; }
     public string name { get; set; }
     public int bikesAvailable { get; set; }

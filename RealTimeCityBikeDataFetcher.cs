@@ -1,6 +1,8 @@
 using System;
-using System.Threading.Tasks;
+using System.Diagnostics;
+using System.Linq;
 using System.Net.Http;
+using System.Threading.Tasks;
 using Newtonsoft.Json;
 
 public class RealTimeCityBikeDataFetcher : ICityBikeDataFetcher
@@ -11,6 +13,10 @@ public class RealTimeCityBikeDataFetcher : ICityBikeDataFetcher
 
     public async Task<int> GetBikeCountInStation(string stationName)
     {
+        if (stationName.Any(char.IsDigit))
+            throw new ArgumentException(String.Format("Cannot contain numbers."));
+
+        await RequestUrl();
         foreach (var station in bikeRentalStationList.Stations)
         {
             if (stationName == station.name)
@@ -19,24 +25,25 @@ public class RealTimeCityBikeDataFetcher : ICityBikeDataFetcher
                 return station.bikesAvailable;
             }
         }
-        return 0;
+        throw new NotfoundException(String.Format("Can't find station: " + stationName));
     }
 
     static async Task RequestUrl()
     {
         try
         {
-            HttpResponseMessage response = await _client.GetAsync("http://api.digitransit.fi/routing/v1/routers/hsl/bike_rental");
-            response.EnsureSuccessStatusCode();
-            string responseBody = await response.Content.ReadAsStringAsync();
-            //Console.WriteLine(responseBody);
+            string responseBody = await _client.GetStringAsync("http://api.digitransit.fi/routing/v1/routers/hsl/bike_rental");
             bikeRentalStationList = JsonConvert.DeserializeObject<BikeRentalStationList>(responseBody);
         }
         catch (HttpRequestException exception)
         {
-            Console.WriteLine("\nException Caught nibba!");
+            Console.WriteLine("\nException Caught brother!");
             Console.WriteLine("Message :{0}", exception.Message);
         }
     }
 
+    private string GetDebuggerDisplay()
+    {
+        return ToString();
+    }
 }

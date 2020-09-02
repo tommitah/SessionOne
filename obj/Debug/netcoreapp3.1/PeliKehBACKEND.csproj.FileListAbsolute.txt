@@ -19,3 +19,12 @@ D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.AssemblyInf
 D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csproj.CoreCompileInputs.cache
 D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.dll
 D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.pdb
+D:\PeliKehitysBACK\SessionOne\bin\Debug\netcoreapp3.1\PeliKehBACKEND.exe
+D:\PeliKehitysBACK\SessionOne\bin\Debug\netcoreapp3.1\PeliKehBACKEND.deps.json
+D:\PeliKehitysBACK\SessionOne\bin\Debug\netcoreapp3.1\PeliKehBACKEND.runtimeconfig.json
+D:\PeliKehitysBACK\SessionOne\bin\Debug\netcoreapp3.1\PeliKehBACKEND.runtimeconfig.dev.json
+D:\PeliKehitysBACK\SessionOne\bin\Debug\netcoreapp3.1\PeliKehBACKEND.dll
+D:\PeliKehitysBACK\SessionOne\bin\Debug\netcoreapp3.1\PeliKehBACKEND.pdb
+D:\PeliKehitysBACK\SessionOne\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.csproj.CopyComplete
+D:\PeliKehitysBACK\SessionOne\obj\Debug\netcoreapp3.1\PeliKehBACKEND.genruntimeconfig.cache
